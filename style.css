@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:,wght@1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+/*   background-color: #9ee59e; */
+}
+
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.nav{
+  height:100vh;
+      width: 160px;
+/*     height: 50vh; */
+  
+/*   background-color:#bbbbdd */
+}
+
+.fill{
+  display:flex
+}
+.name
+{
+  display: block;
+/*   justify-content:center; */
+  text-align: center;
+  width:100vw;
+
+  
+}
+.nav1{
+  height: 50vh;
+    padding: 271px 44px 12px;
+  list-style: none;
+  position:fixed;
+  text-decoration:none;
+}
+.nav1 ul{
+  
+  padding: 5px 0px 18px 0px;
+}
+.nav1 ul a{
+  text-decoration:none;
+  display:flex;
+}
+.nav1 ul a i{
+  font-size:26px;
+  margin-right:11px ;
+  
+}
+.nav1 ul a p{
+  font-size: 27px;
+}
+.name1
+{
+/*   display:flex; */
+/*   justify-content: */
+  margin: 271px 89px;
+/*     width: 100vw; */
+}
+.namee
+{   font-size: 57px;
+/*   font-family: 'Open Sans', sans-serif; */
+font-family: 'Roboto', sans-serif;
+  /* font-family: 'Rubik', sans-serif; */
+}
+.info{
+  font-size: 30px;
+}
